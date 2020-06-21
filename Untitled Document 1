@@ -1,0 +1,11 @@
+1. sudo apt update && sudo apt install golang
+
+--------------------------------
+>>>>>>>>$ go version
+go version go1.10.4 linux/amd64
+-----------------------------------
+
+2. create file with .go extension like hello.go
+3. go build hello.go
+4. ./hello
+
